@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moremi777
 - 👀 I’m interested in Cloud Computing & Web Development
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web development and Cloud computing.
 - 📫 How to reach me, email: olebogengmoremi84@gmail.com
 
 <!---
