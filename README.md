@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moremi777
+- 👋 Hi, I’m Olebogeng Moremi 
 - 👀 I’m interested in Cloud Computing & Web Development
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on Web development and Cloud computing.
