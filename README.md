@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **olebogengmoremi84@gmail.com**
 
-- 📄 Know about my experiences (IT Student Assistant - 2024)
+- 📄 Know about my experiences (IT Student Assistant: 2024 - 2025)
 
 - ⚡ Fun fact **I love watching anime**
 
