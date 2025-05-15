@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpapercave.com/wp/wp6424372.jpg)
 
 <h1 align="center">Hi 👋, I'm Olebogeng Moremi</h1>
-<h3 align="center"> IT Student and Emerging Full Stack Developer </h3>
+<h3 align="center"> Emerging Full Stack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moremi777&label=Profile%20views&color=0e75b6&style=flat" alt="moremi777" /> </p>
