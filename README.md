@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences (CSIS Student Assistant: 2024 - 2025)
 
-- ⚡ Fun fact **I love anime**
+- ⚡ Fun fact **I love watching anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
