@@ -6,17 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moremi777&label=Profile%20views&color=0e75b6&style=flat" alt="moremi777" /> </p>
 
-- 🔭 I’m currently working on **IT Development**
-
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently doing my honours degree in **Computer Science and IT**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **olebogengmoremi84@gmail.com**
 
-- 📄 Know about my experiences (IT Student Assistant: 2024 - 2025)
+- 📄 Know about my experiences (CSIS Student Assistant: 2024 - 2025)
 
-- ⚡ Fun fact **I love watching anime**
+- ⚡ Fun fact **I love anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
